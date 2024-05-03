@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(226, 189, 140);
+    color: rgb(31, 3, 3);
+  }
+  #pagina{
+    width: 600px;
+    height: auto;
+    margin: 0px auto;
+  }
+  
+  img{
+    width: 100%;
+  
+  }
+  
+  #empregado{
+    margin-top: 20px;
+  }
+  p{
+    margin-bottom: 10px;
+  }
+  
+  form{
+    padding: 30px;
+  }
+  
+  #filhos{
+    border: none;
+  }
+  
+  #salario{
+    border: none;
+  }
+  
+  table{
+    border-collapse: collapse;
+    width: 600px;
+    margin: 20px 0px 10px 0px; 
+  }
+  
+  td , th{
+    border: 1px solid black;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    
+  }
+  
+  button{
+    border-radius: 10px;
+    margin: 0px 200px;
+    padding: 10px 80px 10px 80px;
+    background-color: #0e56c2;
+    color: white;
+    font-size: 20px;
+  
+  }
+  
+  
